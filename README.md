@@ -1,8 +1,6 @@
 # Car-Sales-Dashboard
 
 
-<h2> Car Sales Dashboard </h2>
-
 <h4> Overview </h4>
 
 Welcome to the Car Sales Dashboard project! This Power BI report provides an interactive and dynamic view of car sales data, leveraging advanced time intelligence functions and key performance indicators (KPIs) to offer actionable insights. The dashboard enables users to monitor sales performance, track trends, and analyze data across various dimensions.
@@ -74,4 +72,4 @@ Feel free to contribute to this project by suggesting improvements or reporting 
 
 ---
 
-Thank you for using the Car Sales Dashboard! I hope this tool provides valuable insights into your sales data.
+Thank you for using the Car Sales Dashboard ! I hope this tool provides valuable insights into your sales data.
