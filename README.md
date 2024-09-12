@@ -1,5 +1,7 @@
 # Car-Sales-Dashboard
 
+![image](https://github.com/user-attachments/assets/d3312798-a4d7-4fb8-8557-63944152c52e)
+
 
 <h4> Overview </h4>
 
